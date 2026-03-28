@@ -19,7 +19,6 @@
 I'm a **passionate and curious fresh graduate** from Federal Urdu University with a diverse background spanning **tech, business, and finance**. I'm currently building my career in **Data Science & Machine Learning** while constantly upskilling through hands-on projects and professional courses.
 
 - 🌱 Currently learning **Agentic AI, Robotics & Advanced ML**
-- 💼 Interning at **DevelopersHub Corporation** — Data Science & Analytics
 - 🏦 Unique edge: background in both **tech and Islamic Banking**
 - 🎯 Goal: Become a skilled **Data Scientist** solving real-world problems
 - ⚡ Fun fact: I went from Islamic Banking to Agentic AI — curiosity has no limits!
